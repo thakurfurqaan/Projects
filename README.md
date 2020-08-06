@@ -16,6 +16,7 @@ Note: For viewing the repository of 'abc', change **_thakurfurqaan.github.io/abc
 
 ### CONTACT ME:
 **Email:** thakurfurqaan@gmail.com \
-**[LinkedIN](https://linkedin.com/in/furqaanthakur)** 
+**[LinkedIN](https://linkedin.com/in/furqaanthakur)** \
+**[Twitter](https://twitter.com/furqaanthakur)** 
 
 Thank You!
