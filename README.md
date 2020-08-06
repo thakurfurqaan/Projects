@@ -12,7 +12,7 @@
   3. **[Send Message Page](https://thakurfurqaan.github.io/URHopeSendMessage/)** | **[Repo](https://github.com/thakurfurqaan/URHopeSendMessage/)**
 
 ### CONTACT ME:
-**Email:** thakurfurqaan@gmail.com \
+**Email:** thakurfurqaan@gmail.com <a href="#"></a> \
 **[LinkedIN](https://linkedin.com/in/furqaanthakur)** \
 **[Twitter](https://twitter.com/furqaanthakur)** 
 
