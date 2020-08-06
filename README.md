@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Welcome to My Projects Portfolio
 
-You can use the [editor on GitHub](https://github.com/thakurfurqaan/Projects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### LINKS:
+(Click on the links to view the output)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- **Student Grievance Redressal Portal**
+  1. **Template**: https://thakurfurqaan.github.io/SGRSFrontEnd/
+  2. **Final Integrated Version**: https://github.com/thakurfurqaan/SGRSFinal/ (Private)
 
-### Markdown
+- **URHope**
+  1. **Template**: https://thakurfurqaan.github.io/URHope/    
+  2. **SpreadSheet**: https://thakurfurqaan.github.io/URHopeSheet/
+  3. **Send Message Page**: https://thakurfurqaan.github.io/URHopeSendMessage/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Note: For viewing the repository of 'abc', change **_thakurfurqaan.github.io/abc/_** to **_github.com/thakurfurqaan/abc_**.
 
-```markdown
-Syntax highlighted code block
+### CONTACT ME:
+**Email:** thakurfurqaan@gmail.com\
+**LinkedIN:** linkedin.com/in/furqaanthakur
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thakurfurqaan/Projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank You!
