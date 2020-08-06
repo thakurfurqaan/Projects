@@ -3,16 +3,13 @@
 (Click on the links to view the output)
 
 - **Student Grievance Redressal Portal**
-  1. **[FrontEnd Template](https://thakurfurqaan.github.io/SGRSFrontEnd/)** 
-  2. **[Final Integrated Version (Private)](https://github.com/thakurfurqaan/SGRSFinal/)**  
+  1. **[FrontEnd Template](https://thakurfurqaan.github.io/SGRSFrontEnd/)** | **[Repo](https://github.com/thakurfurqaan/SGRSFrontEnd/)**
+  2. **[Final Integrated Version Repo (Private)](https://github.com/thakurfurqaan/SGRSFinal/)** 
 
 - **URHope (NGO project for providing relief to people during Covid-19 Pandemic)**
-  1. **[FrontEnd Template](https://thakurfurqaan.github.io/URHope/)**
-  2. **[SpreadSheet](https://thakurfurqaan.github.io/URHopeSheet/)**
-  3. **[Send Message Page](https://thakurfurqaan.github.io/URHopeSendMessage/)**
- 
-
-Note: For viewing the repository of 'abc', change **_thakurfurqaan.github.io/abc/_** to **_github.com/thakurfurqaan/abc_**.
+  1. **[FrontEnd Template](https://thakurfurqaan.github.io/URHope/)** | **[Repo](https://github.com/thakurfurqaan/URHope/)**
+  2. **[SpreadSheet](https://thakurfurqaan.github.io/URHopeSheet/)** | **[Repo](https://github.com/thakurfurqaan/URHopeSheet/)**
+  3. **[Send Message Page](https://thakurfurqaan.github.io/URHopeSendMessage/)** | **[Repo](https://github.com/thakurfurqaan/URHopeSendMessage/)**
 
 ### CONTACT ME:
 **Email:** thakurfurqaan@gmail.com \
