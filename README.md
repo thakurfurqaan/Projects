@@ -13,6 +13,11 @@
   
 - **[Smart Vehicle Tracking System Repo](https://github.com/thakurfurqaan/Smart-Vehicle-Tracking-System)**
 
+- **[Payroll Management System - Java App Repo](https://github.com/thakurfurqaan/Payroll-Management-System-Java)**
+
+- **[Payroll Management System - Web App Repo](http://payrollmngsys.000webhostapp.com/)**
+
+
 ### CONTACT ME:
 **Email:** thakurfurqaan@gmail.com <br>
 **[LinkedIN](https://linkedin.com/in/furqaanthakur)** <br>
