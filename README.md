@@ -19,7 +19,7 @@
 - **[Smart Vehicle Tracking System Repo](https://github.com/thakurfurqaan/Smart-Vehicle-Tracking-System)**
 
 - **[Payroll Management System - Java App Repo](https://github.com/thakurfurqaan/Payroll-Management-System-Java)**
-![alt text](https://github.com/thakurfurqaan/Payroll-Management-System-Java/blob/master/Screenshots/admin%20home.png)
+![alt text](https://res.cloudinary.com/furqaan/image/upload/v1604309596/admin_home_selected_employee_bd_jvqw7p.png)
 
 - **[Payroll Management System - Web App LIVE](http://payrollmngsys.000webhostapp.com/)** - **[Repo](https://github.com/thakurfurqaan/Payroll-Management-System-WebApp/)**
 ![alt text](https://res.cloudinary.com/furqaan/image/upload/v1604309036/1_vtxejh.png)
